@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Externe App</title>
+</head>
+<body>
+  <p>(function() {individee.loadContentFromBridge('https://gruenderplattform.de', 'requested-component-cont','CONTENT_ID', 'PUBLIC_API_TOKEN', 'PARTNER_ID', 'show', '/assets/images/logogruenderplattform.png','https://gruenderplattform.de/api/content-bridge.css');})();</p>
+</body>
+</html>
